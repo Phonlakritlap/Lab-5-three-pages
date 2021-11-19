@@ -1,0 +1,22 @@
+.bg{
+	background-image: url(https://i.pinimg.com/originals/fd/33/98/fd33981df87c1a0b34cfe09d326cad0b.jpg);
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Image2{
+	width: 75%;
+  height: 110%;
+  object-fit: contain;
+}
+.Image1{
+	width: 75%;
+  height: 110%;
+  object-fit: contain;
+}
+.my-image{
+	 color: white;
+  padding: 5rem;
+  font-size: 10rem;
+  font-family: Copperplate, Papyrus, fantasy;
+}
